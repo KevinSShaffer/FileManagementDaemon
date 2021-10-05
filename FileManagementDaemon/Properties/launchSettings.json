@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FileManagementDaemon": {
+      "commandName": "Project",
+      "commandLineArgs": "-path c:\\test -filter testing.*",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": "true"
+    }
+  }
+}
